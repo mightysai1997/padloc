@@ -47,7 +47,7 @@
         "cordova-plugin-app-version": "0.1.12",
         "cordova-plugin-backbutton": "0.3.0",
         "cordova-plugin-device": "2.0.3",
-        "cordova-plugin-fingerprint-aio": "4.0.2",
+        "cordova-plugin-fingerprint-aio": "5.0.1",
         "cordova-plugin-inappbrowser": "5.0.0",
         "cordova-plugin-ionic-webview": "5.0.0",
         "cordova-plugin-privacyscreen": "0.4.0",
