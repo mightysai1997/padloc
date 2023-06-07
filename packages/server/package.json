@@ -20,7 +20,7 @@
         "ts-node-dev": "1.1.8"
     },
     "dependencies": {
-        "@aws-sdk/client-s3": "3.25.0",
+        "@aws-sdk/client-s3": "3.347.1",
         "@aws-sdk/types": "3.25.0",
         "@padloc/core": "4.0.0",
         "@padloc/locale": "4.0.0",
