@@ -40,7 +40,7 @@
         "@webcomponents/webcomponentsjs": "2.5.0",
         "autosize": "5.0.1",
         "date-fns": "2.22.1",
-        "dompurify": "2.3.3",
+        "dompurify": "2.4.9",
         "event-target-shim": "6.0.2",
         "http-server": "14.1.0",
         "jsqr": "1.4.0",
