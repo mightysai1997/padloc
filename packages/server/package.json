@@ -33,7 +33,7 @@
         "@types/stripe": "8.0.416",
         "ansi-colors": "4.1.1",
         "date-fns": "2.22.1",
-        "dompurify": "2.3.8",
+        "dompurify": "2.4.9",
         "dotenv": "16.0.0",
         "fs-extra": "10.0.0",
         "geolite2-redist": "2.0.4",
